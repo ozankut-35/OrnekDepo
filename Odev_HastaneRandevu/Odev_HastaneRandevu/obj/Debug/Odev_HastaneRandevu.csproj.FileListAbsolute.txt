@@ -1,0 +1,60 @@
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.exe.config
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.exe
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.pdb
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.Form1.resources
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.exe
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.pdb
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.RandevuForm.resources
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.MdiForm.resources
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.RandevuOlustur.resources
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.BransForm.resources
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\28.12\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.DoktorForm.resources
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csprojAssemblyReference.cache
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.BransForm.resources
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.DoktorForm.resources
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.MdiForm.resources
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.Properties.Resources.resources
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.RandevuForm.resources
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.RandevuOlustur.resources
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csproj.GenerateResource.cache
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csproj.CoreCompileInputs.cache
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.exe
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.pdb
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.exe.config
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.exe
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.pdb
+C:\Users\ademk\OneDrive\Masaüstü\C# Çalışmalar\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.YonetimPaneli.resources
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.exe.config
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.exe
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.pdb
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csprojAssemblyReference.cache
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.BransForm.resources
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.DoktorForm.resources
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.MdiForm.resources
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.Properties.Resources.resources
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.RandevuForm.resources
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.RandevuOlustur.resources
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.YonetimPaneli.resources
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csproj.GenerateResource.cache
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.exe
+C:\Users\LENOVO\Source\Repos\Homework\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.pdb
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.exe.config
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.exe
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\bin\Debug\Odev_HastaneRandevu.pdb
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.BransForm.resources
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.DoktorForm.resources
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.MdiForm.resources
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.RandevuForm.resources
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.RandevuOlustur.resources
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.YonetimPaneli.resources
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.exe
+C:\Users\LENOVO\Desktop\Odev_HastaneRandevu\Odev_HastaneRandevu\obj\Debug\Odev_HastaneRandevu.pdb
